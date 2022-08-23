@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/plugins/Traitement ALFI 2022">
+    <file>left.jpg</file>
+    <file>right.jpg</file>
+    <file>profile.png</file>
+    <file>icon.png</file>
+    <file>zoom.jpg</file>
+  </qresource>
+</RCC>
